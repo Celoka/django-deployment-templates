@@ -28,7 +28,7 @@ SECRET_KEY = 'njd_^s+!$%t7a^r6teurw=^h6iezhphh5qij8#qz5c23y)9n3$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['luska.pythonanywhere.com']
 
 
 # Application definition
